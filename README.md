@@ -6,7 +6,7 @@ Georgiou C, Liu Q, Bruno F, Mai C, Tissot F, Fan X, Gonzalez-Anton S, Birch F,
 Mukhopadhyay D, Kinston SJ, Chabra S, Sergi C, van Gastel N, Malanchi I,
 Wilson NK, Duffy KR, Pospori C, Blagborough AM, Göttgens B, Luis TC, Lo Celso C.
 *Rare Hematopoietic Stem Cells resilient to infection-induced stress sense yet
-withstand inflammation.* **Blood**, 2026. DOI: [ADD ON PUBLICATION]
+withstand inflammation.* **Blood**, 2026. DOI: 
 
 Preprint: bioRxiv, DOI [10.1101/2025.04.09.647965](https://doi.org/10.1101/2025.04.09.647965)
 
@@ -52,6 +52,7 @@ notebooks/
   04_oxphos_score.ipynb             OXPHOS gene score
   Fig4_organised.ipynb              all Figure 4 code, in panel order
 data/
+   umap_coordinates_250303.csv
   [SMALL INPUT AND OUTPUT TABLES]
 ```
 
