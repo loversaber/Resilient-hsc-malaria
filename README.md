@@ -51,9 +51,9 @@ notebooks/
   03_differential_expression.ipynb  differential expression, volcano plots, dot plots
   04_oxphos_score.ipynb             OXPHOS gene score
   Fig4_organised.ipynb              all Figure 4 code, in panel order
-data/
-   umap_coordinates_250303.csv
-  [SMALL INPUT AND OUTPUT TABLES]
+data/          small tables and gene lists that the code reads
+results/       tables that the code writes and that back a figure panel
+figures/       the PDF files
 ```
 
 `Fig4_organised.ipynb` collects the code for every panel of Figure 4 in one
