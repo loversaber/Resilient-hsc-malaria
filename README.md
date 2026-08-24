@@ -38,8 +38,6 @@ analysed and plotted in other software, as the paper describes.
 Single cell transcriptomics data are deposited in the Gene Expression Omnibus
 under accession [GSE297047](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE297047).
 
-Flow cytometry data are available from the authors on reasonable request.
-
 The UMAP coordinates that Figure 4C plots are provided as
 `umap_coordinates_250303.csv`. Use that file rather than recomputing the
 embedding, for the reason given under **Reproducibility** below.
