@@ -32,15 +32,12 @@ sorting recorded. The analysis compares three groups.
 | Total | 165 | 8026 |
 
 This repository holds the code for Figure 4, for Figure 5A and for Supplemental
-Figure 5A and 5B. Panels that come from flow cytometry were analysed in FlowJo
-and plotted in GraphPad Prism, so they are not in this repository.
+Figure 5A and 5B.
 
 ## Data availability
 
 Single cell transcriptomics data are deposited in the Gene Expression Omnibus
 under accession [GSE297047](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE297047).
-
-Flow cytometry data are available from the authors on reasonable request.
 
 The UMAP coordinates that Figure 4C plots are provided as
 `umap_coordinates_250303.csv`. Use that file rather than recomputing the
@@ -56,7 +53,7 @@ notebooks/
   04_oxphos_score.ipynb             OXPHOS gene score
   Fig4_organised.ipynb              all Figure 4 code, in panel order
 data/
-  [SMALL INPUT AND OUTPUT TABLES THAT YOU DEPOSIT HERE]
+
 ```
 
 `Fig4_organised.ipynb` collects the code for every panel of Figure 4 in one
@@ -179,8 +176,3 @@ Cambridge Stem Cell Institute, University of Cambridge, lq2021cambridge@gmail.co
 
 For questions about the study, contact Cristina Lo Celso, Imperial College
 London, c.lo-celso@imperial.ac.uk.
-
-## Licence
-
-[LICENCE, for example MIT]
-
