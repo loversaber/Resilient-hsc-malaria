@@ -185,7 +185,7 @@ differential expression results have the same property, so use the saved result
 tables rather than rerunning the tests under a newer version of `scanpy`.
 
 The notebooks run under Python 3.11, and the R code runs inside them through
-`rpy2` and the `%%R` cell magic. [Add the PACKAGE versions here later]
+`rpy2` and the `%%R` cell magic. [will add the PACKAGE versions here later]
 
 ## Paths
 
