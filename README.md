@@ -195,8 +195,7 @@ elsewhere.
 
 ## Contact
 
-For questions about the single cell analysis code, contact Qi Liu, Wellcome-MRC
-Cambridge Stem Cell Institute, University of Cambridge, lq2021cambridge@gmail.com.
+For questions about the single cell analysis code, contact Qi Liu, Cambridge Stem Cell Institute, University of Cambridge, lq2021cambridge@gmail.com.
 
 For questions about the study, contact Cristina Lo Celso, Imperial College
 London, c.lo-celso@imperial.ac.uk.
