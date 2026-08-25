@@ -1,0 +1,4 @@
+BC,G0/G1,S,G2M,Total
+HI_Control,44,10,4,58
+HI_Infected,41,15,8,64
+LO_Infected,22,18,3,43
